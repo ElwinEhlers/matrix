@@ -32,9 +32,10 @@ trusted_key_servers:
 suppress_key_server_warning: true
 enable_registration: false
 registration_shared_secret: "12324"
-
+```
 
 registration/Shared Secret:
+
 ```html
 nano /etc/matrix-synapse/conf.d/registration.yaml
 ```
