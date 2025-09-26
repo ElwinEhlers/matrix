@@ -1,4 +1,4 @@
-A valid certificate for example.com and element.example.com is required
+A valid certificate for matrix.example.com and element.example.com is required
 ```html
 nano /etc/nginx/sites-available/matrix.conf
 ```
